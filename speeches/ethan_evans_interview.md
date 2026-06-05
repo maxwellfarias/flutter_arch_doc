@@ -1,28 +1,8 @@
-# Ethan Evans Interview — Corrected and Organized Notes
+# Ethan Evans Interview — Corrected Transcript
 
-## Overview
-
-This document is a corrected and organized English version of the interview transcript. Grammar, spelling, punctuation, and unclear phrasing have been improved while preserving the original meaning.
-
-The interview features **Ethan Evans**, a former Amazon Vice President, discussing his career path, early failures, leadership lessons, promotions, performance management, workplace politics, and the differences between working with senior leaders such as **Jeff Bezos** and **Andy Jassy**.
+> This Markdown file keeps the original interview content in transcript form. Grammar, spelling, punctuation, and obvious transcription errors were corrected only where necessary. The conversation is organized by topic to make it easier to read, but it does not include a separate summary or commentary section.
 
 ---
-
-## Main Themes
-
-1. Early career mistakes and being fired twice.
-2. The importance of soft skills and relationship-building.
-3. How to be “strategically annoying” without becoming abrasive.
-4. How promotions work at senior levels in large companies.
-5. The importance of taking calculated risks.
-6. How performance management and PIPs often work in practice.
-7. Why HR usually protects the company, not the employee.
-8. Lessons from working with Jeff Bezos, Andy Jassy, Twitch, and Amazon Gaming.
-9. Career advice for engineers and leaders.
-
----
-
-## Corrected and Organized Transcript
 
 ## 1. Introduction
 
@@ -360,74 +340,10 @@ Amazon called Ethan for the job, not the other way around. He said people should
 
 ---
 
-## 22. Where to Find Ethan Evans
+## 22. Closing and Where to Find Ethan Evans
 
 Ethan said people can find him on LinkedIn as **Ethan EvansVP** or through his website, **EthanEvans.com**.
 
 He is known for teaching classes about career growth and promotion. He described his style as direct and honest. If people like the straight talk from the interview, that is the kind of content he teaches regularly.
 
 ---
-
-# Key Lessons
-
-## Career Growth
-
-- Choose high-growth environments whenever possible.
-- Do not rely only on hard work to be promoted.
-- Make your ambitions clear to your manager.
-- Learn the promotion process yourself.
-- Take calculated risks.
-
-## Leadership
-
-- Being right is not enough.
-- Relationships matter as much as logic.
-- Learn to disagree without damaging trust.
-- Build alliances before you need them.
-- Influence is more powerful than authority at senior levels.
-
-## Performance Management
-
-- PIPs are often a sign that the company has already decided to remove the employee.
-- Managers have significant power to shape the narrative around performance.
-- HR usually protects the company, not the individual employee.
-- Employees should not wait passively if their manager is hostile or unfair.
-
-## Communication
-
-- Be “strategically annoying,” not abrasive.
-- Ask questions instead of only making statements.
-- Raise difficult topics politely and clearly.
-- Build a reputation before you need opportunities.
-
----
-
-# Vocabulary and Corrections
-
-| Original / Incorrect | Corrected Version |
-|---|---|
-| pips | PIPs / Performance Improvement Plans |
-| dishonest and or | dishonest and/or |
-| Andrew Jasse | Andy Jassy |
-| com boom | dot-com boom |
-| Carnegie Melon | Carnegie Mellon |
-| LIOS / LOS | Lycos |
-| TEO | TiVo |
-| EMTT / Imit / Emit | Emmett Shear |
-| 10 cent | Tencent |
-| unreged attrition | unregretted attrition |
-| new college higher | new college hire |
-| sideload like | sideloaded app |
-| highlevel | high-level |
-| hyperrowth | hypergrowth |
-| outsiz event | outsized event |
-| longded process | long process |
-
----
-
-# Short Summary
-
-Ethan Evans’ career shows that technical ability can help someone rise quickly, but poor communication and weak relationships can eventually derail that progress. After being fired twice, he realized that his abrasive style was the common problem. He changed by studying workplace psychology, soft skills, and leadership.
-
-At Amazon, he learned how promotions, performance management, executive decision-making, and corporate politics really work. His central advice is that career growth requires a combination of skill, strategic risk-taking, reputation-building, relationship management, and clear self-advocacy.
-
