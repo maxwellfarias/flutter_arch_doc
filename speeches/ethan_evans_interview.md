@@ -1,9 +1,3 @@
-# Ethan Evans Interview — Corrected Transcript
-
-> This Markdown file keeps the original interview content in transcript form. Grammar, spelling, punctuation, and obvious transcription errors were corrected only where necessary. The conversation is organized by topic to make it easier to read, but it does not include a separate summary or commentary section.
-
----
-
 ## 1. Introduction
 
 As a manager, I could get rid of almost any individual employee I wanted. This was the most brutally honest interview I have done so far.
